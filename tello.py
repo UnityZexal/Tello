@@ -84,3 +84,4 @@ thread2 = Fly()
 
 thread1.start()
 thread2.start()
+print("hello world")
